@@ -1,0 +1,1 @@
+Prvý git súbor
